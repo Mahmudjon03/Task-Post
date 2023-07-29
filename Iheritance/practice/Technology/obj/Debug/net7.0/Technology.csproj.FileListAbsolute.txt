@@ -1,0 +1,15 @@
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\bin\Debug\net7.0\Technology.exe
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\bin\Debug\net7.0\Technology.deps.json
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\bin\Debug\net7.0\Technology.runtimeconfig.json
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\bin\Debug\net7.0\Technology.dll
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\bin\Debug\net7.0\Technology.pdb
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\Technology.csproj.AssemblyReference.cache
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\Technology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\Technology.AssemblyInfoInputs.cache
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\Technology.AssemblyInfo.cs
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\Technology.csproj.CoreCompileInputs.cache
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\Technology.dll
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\refint\Technology.dll
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\Technology.pdb
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\Technology.genruntimeconfig.cache
+C:\Users\hhp\Desktop\c# course\Iheritance\practice\Technology\obj\Debug\net7.0\ref\Technology.dll
